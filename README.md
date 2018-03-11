@@ -1,4 +1,5 @@
-# theme-customizer
+# Theme Customizer (User)
+
 ## Description
 
 In this lesson you will learn that the Theme Customizer provides a centralized place to change options that control the look of your WordPress site. This lesson covers how to locate and use the Customizer and the options that it includes.
