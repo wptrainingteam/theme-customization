@@ -72,17 +72,21 @@ To use the Customizer, click on the section that you are interested in such as C
 3.  Under your Profile
 4.  Under the Appearance menu
 
-**Answer:**  4\. Under the Appearance menu **All themes can be modified using the Customizer.**
+**Answer:**  4. Under the Appearance menu
+
+**All themes can be modified using the Customizer.**
 
 1.  Yes
 2.  No
 
-**Answer:**  2\. No. (Older themes may not support it, however it is required for all newly created themes available from WordPress.org/themes.) **All themes have the same options in the Customizer.**
+**Answer:**  2. No. (Older themes may not support it, however it is required for all newly created themes available from WordPress.org/themes.)
+
+**All themes have the same options in the Customizer.**
 
 1.  Yes
 2.  No
 
-**Answer:**  2\. No. (Each theme, and some plugins, determines which options appear in the customizer.)  
+**Answer:**  2. No. (Each theme, and some plugins, determines which options appear in the customizer.)  
 
 ## Additional Resources
 
