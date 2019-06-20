@@ -15,40 +15,45 @@ After completing this lesson, you will be able to:
 
 ## Target Audience
 
-Who is this lesson intended for? What interests/skills would they bring? Choose all that apply.
+Who is this lesson intended for? What interests/skills would they bring? Put an "x" in the brackets for all that apply.
 
-* [ ] Users
-* [ ] Designers
+* [x] Users / Content Writers
+* [x] Designers
 * [ ] Developers
 * [ ] Speakers
-* [ ] All
+* [ ] Organizers
+* [x] Kids
 
 ## Experience Level
 
-How much experience would a participant need to get the most from this lesson?
+How much experience would a participant need to get the most from this lesson? Put an "x" in the brackets for all that apply.
 
-* [ ] Beginner
+* [x] Beginner
 * [ ] Intermediate
 * [ ] Advanced
-* [ ] Any
 
 ## Type of Instruction
 
-Which strategies will be used for this lesson plan? Choose all that apply.
+Which strategies will be used for this lesson plan? Put an "x" in the brackets for all that apply.
 
 * [ ] Demonstration
 * [ ] Discussion
 * [ ] Exercises
 * [ ] Feedback
 * [ ] Lecture (Presentation)
+* [ ] Slides
 * [ ] Show & Tell
 * [ ] Tutorial
 
 ## Time Estimate (Duration)
 
-How long will it take to teach this lesson (in minutes)?
+How long will it take to present this lesson? Put an "x" in the brackets for the one that applies.
 
-____ minutes
+* [ ] 1 hour or less
+* [ ] 2-4 hours (half-day)
+* [ ] 5-8 hours (full-day)
+* [ ] 2 days
+* [ ] 3 days or more
 
 ## Prerequisite Skills
 
@@ -70,7 +75,7 @@ Participants will get the most from this lesson if they have familiarity with:
 
 *   [Twenty Fifteen theme](https://wordpress.org/themes/twentyfifteen/)
 
-## Notes for the Instructor
+## Notes for the Presenter
 
 *   Students should have a sandbox site (preferably a local site, but it could be a non-critical site on a server) that they can make changes to during the lesson.
 *   Feel free to change the example color scheme and text that are included in the lesson.
