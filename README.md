@@ -133,6 +133,20 @@ Participants will get the most from this lesson if they have familiarity with:
 
 **Answer:**  2. No. (Each theme, and some plugins, determines which options appear in the customizer.)  
 
+**What items could you update with the Customizer?**
+
+1. Site's content 
+2. Items like colours, widjets, header image, background image
+3. Users
+4. Plugins
+
+**Answer:** 2. Items like colours, widjets, header image, background image
+
+**All changes you do on Customizer are being reflected on your site immediately.**
+
+1. Yes, when I change something on customizer, it reflects right away on the site. 
+2. No, unless I hit "Publish" nothing is being changed.
+
 ## Additional Resources
 
 1.  [Theme Customization API](https://codex.wordpress.org/Theme_Customization_API) @Codex
