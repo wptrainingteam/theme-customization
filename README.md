@@ -82,17 +82,11 @@ Participants will get the most from this lesson if they have familiarity with:
 
 ## Lesson Outline
 
-* First do this
-* Then move on to this
-* Finish with this
+* Talk about what Customizer is.
+* Show where to find Customizer and how to open it.
+* Practice exercises to have participants explore the customizer, change site colours and add text to the sidebar.
+* Show how to save changes in customizer.
 
-> The plan for the lesson. Outline form works well.
->
-> _For example:_
->
-> * Talk about what a theme is
-> * Demonstrate how to install and activate a theme
-> * Practice exercises to have participants find and install a theme on their own site
 
 ## Exercises
 
