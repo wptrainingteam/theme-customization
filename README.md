@@ -64,7 +64,7 @@ Participants will get the most from this lesson if they have familiarity with:
 
 ## Slides
 
-*   [Slides](https://wptrainingteam.github.io/lesson-plans/theme-customizer-user/slides/) (files included in this repo)
+*   [Slides](https://wptrainingteam.github.io/lesson-plan/theme-customizer-user/slides/) (files included in this repo)
 
 ## Materials Needed
 
