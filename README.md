@@ -147,6 +147,9 @@ Participants will get the most from this lesson if they have familiarity with:
 1. Yes, when I change something on customizer, it reflects right away on the site. 
 2. No, unless I hit "Publish" nothing is being changed.
 
+**Answer:** 2. No, unless I hit "Publish" nothing is being changed.
+
+
 ## Additional Resources
 
 1.  [Theme Customization API](https://codex.wordpress.org/Theme_Customization_API) @Codex
