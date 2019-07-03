@@ -15,40 +15,45 @@ After completing this lesson, you will be able to:
 
 ## Target Audience
 
-Who is this lesson intended for? What interests/skills would they bring? Choose all that apply.
+Who is this lesson intended for? What interests/skills would they bring? Put an "x" in the brackets for all that apply.
 
-* [ ] Users
-* [ ] Designers
+* [x] Users / Content Writers
+* [x] Designers
 * [ ] Developers
 * [ ] Speakers
-* [ ] All
+* [ ] Organizers
+* [x] Kids
 
 ## Experience Level
 
-How much experience would a participant need to get the most from this lesson?
+How much experience would a participant need to get the most from this lesson? Put an "x" in the brackets for all that apply.
 
-* [ ] Beginner
+* [x] Beginner
 * [ ] Intermediate
 * [ ] Advanced
-* [ ] Any
 
 ## Type of Instruction
 
-Which strategies will be used for this lesson plan? Choose all that apply.
+Which strategies will be used for this lesson plan? Put an "x" in the brackets for all that apply.
 
 * [ ] Demonstration
 * [ ] Discussion
 * [ ] Exercises
 * [ ] Feedback
 * [ ] Lecture (Presentation)
+* [ ] Slides
 * [ ] Show & Tell
 * [ ] Tutorial
 
 ## Time Estimate (Duration)
 
-How long will it take to teach this lesson (in minutes)?
+How long will it take to present this lesson? Put an "x" in the brackets for the one that applies.
 
-____ minutes
+* [ ] 1 hour or less
+* [ ] 2-4 hours (half-day)
+* [ ] 5-8 hours (full-day)
+* [ ] 2 days
+* [ ] 3 days or more
 
 ## Prerequisite Skills
 
@@ -70,24 +75,18 @@ Participants will get the most from this lesson if they have familiarity with:
 
 *   [Twenty Fifteen theme](https://wordpress.org/themes/twentyfifteen/)
 
-## Notes for the Instructor
+## Notes for the Presenter
 
 *   Students should have a sandbox site (preferably a local site, but it could be a non-critical site on a server) that they can make changes to during the lesson.
 *   Feel free to change the example color scheme and text that are included in the lesson.
 
 ## Lesson Outline
 
-* First do this
-* Then move on to this
-* Finish with this
+* Talk about what Customizer is.
+* Show where to find Customizer and how to open it.
+* Practice exercises to have participants explore the customizer, change site colours and add text to the sidebar.
+* Show how to save changes in customizer.
 
-> The plan for the lesson. Outline form works well.
->
-> _For example:_
->
-> * Talk about what a theme is
-> * Demonstrate how to install and activate a theme
-> * Practice exercises to have participants find and install a theme on their own site
 
 ## Exercises
 
@@ -132,6 +131,23 @@ Participants will get the most from this lesson if they have familiarity with:
 2.  No
 
 **Answer:**  2. No. (Each theme, and some plugins, determines which options appear in the customizer.)  
+
+**What items could you update with the Customizer?**
+
+1. Site's content 
+2. Items like colours, widjets, header image, background image
+3. Users
+4. Plugins
+
+**Answer:** 2. Items like colours, widjets, header image, background image
+
+**All changes you do on Customizer are being reflected on your site immediately.**
+
+1. Yes, when I change something on customizer, it reflects right away on the site. 
+2. No, unless I hit "Publish" nothing is being changed.
+
+**Answer:** 2. No, unless I hit "Publish" nothing is being changed.
+
 
 ## Additional Resources
 
