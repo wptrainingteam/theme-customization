@@ -135,11 +135,11 @@ Participants will get the most from this lesson if they have familiarity with:
 **What items could you update with the Customizer?**
 
 1. Site's content 
-2. Items like colours, widjets, header image, background image
+2. Items like colours, widgets, header image, background image
 3. Users
 4. Plugins
 
-**Answer:** 2. Items like colours, widjets, header image, background image
+**Answer:** 2. Items like colours, widgets, header image, background image
 
 **All changes you do on Customizer are being reflected on your site immediately.**
 
